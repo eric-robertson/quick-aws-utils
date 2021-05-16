@@ -1,0 +1,51 @@
+{
+  "_from": "@orcus050/quick-aws-utils",
+  "_id": "@orcus050/quick-aws-utils@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-TrV3+o88ezxvDbPJOW0du8PGua/lDx7g7CM2xpRDT/onTmpiY4eFc8IjyciPWwlE33cKZwL+H02KcpT/nfZQRw==",
+  "_location": "/@orcus050/quick-aws-utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@orcus050/quick-aws-utils",
+    "name": "@orcus050/quick-aws-utils",
+    "escapedName": "@orcus050%2fquick-aws-utils",
+    "scope": "@orcus050",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@orcus050/quick-aws-utils/-/quick-aws-utils-1.0.0.tgz",
+  "_shasum": "1984f45a2f65f71a4c59d153bad570192cec0cc0",
+  "_spec": "@orcus050/quick-aws-utils",
+  "_where": "/home/eric/Documents/Projects/hearth/v2/serverless",
+  "author": {
+    "name": "eric-robertson"
+  },
+  "bugs": {
+    "url": "https://github.com/eric-robertson/quick-aws-utils/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a set of utils for quick aws deployments",
+  "homepage": "https://github.com/eric-robertson/quick-aws-utils#readme",
+  "keywords": [
+    "serverless"
+  ],
+  "license": "ISC",
+  "main": "index.cjs",
+  "name": "@orcus050/quick-aws-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-robertson/quick-aws-utils.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
